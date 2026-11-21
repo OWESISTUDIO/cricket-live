@@ -1,6 +1,6 @@
 {
-  "build": 15,
-  "version": "1.0.15",
-  "url": "https://github.com/OWESISTUDIO/cricket-live/releases/download/v1.0.15/CricketWithMoosa.apk",
-  "notes": "Pro, public matches, new designs and animations"
+  "build": 16,
+  "version": "1.0.16",
+  "url": "https://github.com/OWESISTUDIO/cricket-live/releases/download/v1.0.16/CricketWithMoosa.apk",
+  "notes": "Scrollable scoring sheets, End match, multi-delete, highlights by match, new Tournaments screen"
 }
